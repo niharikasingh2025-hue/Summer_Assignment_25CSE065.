@@ -1,5 +1,5 @@
 // ques 1
-/*#include <stdio.h>
+/* #include <stdio.h>
 
 int main() {
     int n, i, sum = 0;
