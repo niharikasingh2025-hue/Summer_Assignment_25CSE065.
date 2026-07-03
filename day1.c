@@ -1,12 +1,12 @@
 // ques 1
-/* #include <stdio.h>
+/*
+#include <stdio.h>
 
 int main() {
     int n, i, sum = 0;
 
     printf("Enter the value of N: ");
     scanf("%d", &n);
-
     for(i = 1; i <= n; i++) {
         sum = sum + i;
     }
@@ -14,11 +14,12 @@ int main() {
     printf("Sum of first %d natural numbers = %d\n", n, sum);
 
     return 0;
-}
+}*/
 
 
 //ques 2
-#include <stdio.h>
+
+ #include <stdio.h>
 
 int main() {
     int n, i;
@@ -35,7 +36,7 @@ int main() {
 
 
 //ques 3
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
     int n, i;
@@ -51,7 +52,7 @@ int main() {
     printf("Factorial of %d = %lld\n", n, factorial);
 
     return 0;
-}*/
+}
 
 
 
@@ -73,4 +74,5 @@ int main() {
     printf("Number of digits = %d\n", count);
 
     return 0;
-}
+}*/
+
