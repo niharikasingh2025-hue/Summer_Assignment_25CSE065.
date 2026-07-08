@@ -1,4 +1,4 @@
-//ques 53
+//ques 53 
 #include <stdio.h>
 
 int main() {
